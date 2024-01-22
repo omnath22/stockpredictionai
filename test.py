@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import utils as utl
-from streamlit_option_menu import option_menu
 
 # NOTE: This must be the first command in your app, and must be set only once
 st.set_page_config(initial_sidebar_state="collapsed",layout="wide",page_title="yourfinancebuddy")
