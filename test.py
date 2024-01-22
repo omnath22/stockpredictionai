@@ -1,5 +1,4 @@
 import streamlit as st
-import yfinance as yf
 import pandas as pd
 import utils as utl
 from streamlit_option_menu import option_menu
